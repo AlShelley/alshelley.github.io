@@ -1,6 +1,6 @@
 这里是longlyor的网站主页
 
-可以通过 https://www.lonelyor.org/ 或 https://alshelley.github.io/ 访问 
+可以通过 http://www.lonelyor.org/ 或 https://alshelley.github.io/ 访问 
 
 网站含有三个子页
 
@@ -10,7 +10,7 @@ https://www.lonelyor.org/lonelyorMoon/   用来记录文摘
 
 https://www.lonelyor.org/lonelyorMess/   用来写杂七杂八
 
-使用http访问可能会丢失图片
+www.lonelyor.org使用https访问时可能会丢失样式（正在处理中...）
 
 
 本博客内容来自：
