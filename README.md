@@ -4,7 +4,7 @@
 
 网站含有三个子页
 
-https://www.lonelyor.org/lonelyorNotes/  用来记录学习笔记
+https://www.lonelyor.org/lonelyorWiki/  用来记录学习笔记
 
 https://www.lonelyor.org/lonelyorMoon/   用来记录文摘
 
